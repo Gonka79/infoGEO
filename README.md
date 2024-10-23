@@ -20,14 +20,14 @@ This project allows you to obtain detailed geographical information about IP add
    cd repository-name
    ```
 
-2. Create and activate a virtual environment:
+2. Create and activate a virtual environment (Kali Linux and Parrot OS):
 
    ```bash
    python3 -m venv myenv
    source myenv/bin/activate
    ```
 
-3. Install dependencies:
+3. Install dependencies :
 
    ```bash
    pip install -r requirements.txt
@@ -79,7 +79,7 @@ Este proyecto permite obtener información geográfica detallada de direcciones 
    cd nombre-del-repositorio
    ```
 
-2. Crear un entorno virtual y activar:
+2. Crear un entorno virtual y activar (Kali Linux y Parrot OS):
 
    ```bash
    python3 -m venv myenv
