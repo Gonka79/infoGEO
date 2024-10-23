@@ -10,7 +10,7 @@ This project allows you to obtain detailed geographical information about IP add
 ## Requirements
 - Python 3.x
 - `geoip2` and `socket` libraries to perform geographic lookups.
-- **GeoLite2-City.mmdb** database downloaded from MaxMind. You can download it for free [here](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data).
+- **GeoLite2-City.mmdb** database downloaded from MaxMind. You can download it for free [here]([https://dev.maxmind.com/geoip/geolite2-free-geolocation-data](https://www.maxmind.com/en/accounts/1078544/geoip/downloads)).
 
 ## Installation
 1. Clone the repository:
@@ -69,7 +69,7 @@ Este proyecto permite obtener información geográfica detallada de direcciones 
 ## Requisitos
 - Python 3.x
 - `geoip2` y `socket` para realizar las consultas geográficas.
-- Base de datos **GeoLite2-City.mmdb** descargada de MaxMind. Puedes descargarla de forma gratuita [aquí](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data).
+- Base de datos **GeoLite2-City.mmdb** descargada de MaxMind. Puedes descargarla de forma gratuita [aquí]([https://dev.maxmind.com/geoip/geolite2-free-geolocation-data](https://www.maxmind.com/en/accounts/1078544/geoip/downloads)).
 
 ## Instalación
 1. Clonar el repositorio:
